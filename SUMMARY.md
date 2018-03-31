@@ -1,5 +1,5 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
-* [Using GitHub](github.md)
+* [Using GitHub](using-github.md)
 
